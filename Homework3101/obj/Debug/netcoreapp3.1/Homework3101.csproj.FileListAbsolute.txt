@@ -1,0 +1,14 @@
+C:\Users\newego\source\repos\Homework3101\Homework3101\bin\Debug\netcoreapp3.1\Homework3101.exe
+C:\Users\newego\source\repos\Homework3101\Homework3101\bin\Debug\netcoreapp3.1\Homework3101.deps.json
+C:\Users\newego\source\repos\Homework3101\Homework3101\bin\Debug\netcoreapp3.1\Homework3101.runtimeconfig.json
+C:\Users\newego\source\repos\Homework3101\Homework3101\bin\Debug\netcoreapp3.1\Homework3101.runtimeconfig.dev.json
+C:\Users\newego\source\repos\Homework3101\Homework3101\bin\Debug\netcoreapp3.1\Homework3101.dll
+C:\Users\newego\source\repos\Homework3101\Homework3101\bin\Debug\netcoreapp3.1\Homework3101.pdb
+C:\Users\newego\source\repos\Homework3101\Homework3101\obj\Debug\netcoreapp3.1\Homework3101.csproj.AssemblyReference.cache
+C:\Users\newego\source\repos\Homework3101\Homework3101\obj\Debug\netcoreapp3.1\Homework3101.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\newego\source\repos\Homework3101\Homework3101\obj\Debug\netcoreapp3.1\Homework3101.AssemblyInfoInputs.cache
+C:\Users\newego\source\repos\Homework3101\Homework3101\obj\Debug\netcoreapp3.1\Homework3101.AssemblyInfo.cs
+C:\Users\newego\source\repos\Homework3101\Homework3101\obj\Debug\netcoreapp3.1\Homework3101.csproj.CoreCompileInputs.cache
+C:\Users\newego\source\repos\Homework3101\Homework3101\obj\Debug\netcoreapp3.1\Homework3101.dll
+C:\Users\newego\source\repos\Homework3101\Homework3101\obj\Debug\netcoreapp3.1\Homework3101.pdb
+C:\Users\newego\source\repos\Homework3101\Homework3101\obj\Debug\netcoreapp3.1\Homework3101.genruntimeconfig.cache
